@@ -1,0 +1,12 @@
+quiche totonicapan 50
+guatemala quiche 200
+totonicapan guatemala 300
+guatemala huehuetenango 260
+huehuetenango guatemala 300
+guatemala escuintla 90
+escuintla chimaltenango 200
+guatemala chimaltenango 120
+chimaltenango guatemala 150
+chimaltenango sacatepequez 20
+sacatepequez guatemala 70
+guatemala sacatepequez 50
